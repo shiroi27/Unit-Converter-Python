@@ -44,7 +44,7 @@ A sleek and functional GUI-based unit converter that lets you easily convert bet
 
 ---
 
-📅 Day 17 Highlight
+## 📅 Day 17 Highlight
 
 This project helped me explore precise placement in GUI layouts and practice handling conversion logic cleanly and efficiently. It also polished my understanding of .place() and ttk.Combobox.
 
@@ -62,12 +62,12 @@ Let’s connect and grow together! 🌱✨
 
 ---
 
-📜 License
+## 📜 License
 
 This project is open-source and free to use under the MIT License.
 
 ---
 
-📌 Tags
+## 📌 Tags
 
 #Python #Tkinter #UnitConverter #100DaysOfCode #PythonGUI #PythonProjects #Day17 
