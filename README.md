@@ -1,5 +1,6 @@
 ## 📸 Preview  
-![Unit Converter Screenshot](https://github.com/YOUR_USERNAME/Unit-Converter-Python/assets/preview-placeholder.png)
+![Unit Converter Screenshot](https://github.com/user-attachments/assets/4f19a97c-9d32-4c4d-91c5-83807b54628a)
+
 
 ---
 
