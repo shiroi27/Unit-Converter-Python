@@ -34,7 +34,7 @@ A sleek and functional GUI-based unit converter that lets you easily convert bet
    git clone https://github.com/shiroi27/Unit-Converter-Python.git
    cd Unit-Converter-Python
 ```
-2.	**Run the script**
+2. **Run the script**
 ```bash
    python Unit_Converter.py
 ```
@@ -42,13 +42,13 @@ A sleek and functional GUI-based unit converter that lets you easily convert bet
 
 ✅ That’s it! No extra dependencies required.
 
-⸻
+---
 
 📅 Day 17 Highlight
 
 This project helped me explore precise placement in GUI layouts and practice handling conversion logic cleanly and efficiently. It also polished my understanding of .place() and ttk.Combobox.
 
-⸻
+---
 
 🤝 Connect With Me
 
@@ -58,13 +58,13 @@ Let’s connect and grow together! 🌱✨
 	•	🐦 Twitter: @shiroi_27
 	•	💼 GitHub: shiroi27
 
-⸻
+---
 
 📜 License
 
 This project is open-source and free to use under the MIT License.
 
-⸻
+---
 
 📌 Tags
 
