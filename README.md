@@ -39,7 +39,6 @@ A sleek and functional GUI-based unit converter that lets you easily convert bet
    python Unit_Converter.py
 ```
 
-
 ✅ That’s it! No extra dependencies required.
 
 ---
@@ -50,13 +49,15 @@ This project helped me explore precise placement in GUI layouts and practice han
 
 ---
 
-🤝 Connect With Me
+## 🤝 Connect With Me
 
 I’m sharing my #100DaysOfCode journey with real-world Python projects.
 Let’s connect and grow together! 🌱✨
-	•	📸 Instagram: @shiroi_27
-	•	🐦 Twitter: @shiroi_27
-	•	💼 GitHub: shiroi27
+
+- 📸 [Instagram: @_shiroi_27_](https://instagram.com/_shiroi_27_)
+- 🐦 [Twitter: @_shiroi_27_](https://twitter.com/_shiroi_27_)
+- 💼 [LinkedIn: @shiroi27](https://linkedin.com/in/shiroi27)
+
 
 ---
 
@@ -68,4 +69,4 @@ This project is open-source and free to use under the MIT License.
 
 📌 Tags
 
-#Python #Tkinter #UnitConverter #100DaysOfCode #PythonGUI #PythonProjects
+#Python #Tkinter #UnitConverter #100DaysOfCode #PythonGUI #PythonProjects #Day17 
